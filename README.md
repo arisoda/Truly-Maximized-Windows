@@ -1,4 +1,4 @@
-A neat GNOME extension that maximizes new windows that are in the irritating ALMOST-maximized state. This is probably an xorg issue. (Not seen on Wayland set.)
+A neat GNOME (48) extension that maximizes new windows that are in the irritating ALMOST-maximized state. This is probably an xorg issue. (Not seen on Wayland set.)
 
 This extension deals with the problem (at least on xorg) that certain windows (e.g. mpv or kolourpaint) are not opened in a truly maximized state but do in fact SEEM like they are - they span the full width and height. So what is the difference?
 
