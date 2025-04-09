@@ -1,0 +1,9 @@
+{
+  "uuid": "TrulyMaximizedWindows@arisoda.com",
+  "name": "Truly Maximized Windows (Fix)",
+  "description": "Maximizes new windows that are in the irritating ALMOST-maximized state. Made by arisoda.",
+  "version": 1,
+  "shell-version": ["45, 46, 47, 48"],
+  "url": "https://github.com/arisoda/Truly-Maximized-Windows"
+}
+
