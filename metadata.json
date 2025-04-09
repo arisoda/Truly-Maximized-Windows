@@ -1,7 +1,7 @@
 {
   "uuid": "Truly-Maximize-Windows@arisoda.com",
   "name": "Truly Maximize Windows (Fix)",
-  "description": "Maximizes new windows that are in the irritating ALMOST-maximized state. Made by arisoda.",
+  "description": "Maximizes new windows that are in the irritating ALMOST-maximized state. Probably an xorg issue. Made by arisoda.",
   "version": 1,
   "shell-version": ["48"],
   "url": "https://github.com/arisoda/Truly-Maximized-Windows"
